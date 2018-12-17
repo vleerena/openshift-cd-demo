@@ -1,0 +1,4 @@
+*.log
+*.bak
+tmp/
+insert_http_gogs*.sh
